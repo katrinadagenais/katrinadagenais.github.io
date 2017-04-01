@@ -743,10 +743,8 @@
 				position: absolute;
 				top: 50%;
 				left: -3em;
-				width: calc(100% + 6em);
+				width: calc(50% + 6em);
 				height: 1px;
-				max-width: 50%;
-				max-height: auto;
 				z-index: -1;
 				background: #c8cccf;
 			}
