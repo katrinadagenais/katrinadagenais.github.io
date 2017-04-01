@@ -97,7 +97,7 @@
 		background-attachment: fixed,			fixed,				fixed;
 	}
 
-		body:after {
+		/*body:after {
 			content: '';
 			display: block;
 			position: fixed;
@@ -118,7 +118,7 @@
 			-moz-transition: opacity 1.75s ease-out;
 			-webkit-transition: opacity 1.75s ease-out;
 			-ms-transition: opacity 1.75s ease-out;
-			transition: opacity 1.75s ease-out;
+			transition: opacity 1.75s ease-out;*/
 		}
 
 		body.is-loading:after {
